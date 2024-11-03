@@ -1,0 +1,19 @@
+#button-container {
+    margin-top: 10px;
+}
+
+button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.blue-background {
+    background-color: #87CEEB;
+    color: black;
+}
+
+.green-background {
+    background-color: green;
+    color: white;
+}
